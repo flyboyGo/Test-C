@@ -1,0 +1,3 @@
+﻿  main.c
+D:\VisualStudioWorkPlace\demo6.26\demo6.26\main.c(235,7): warning C4552: ”+“: 未使用表达式结果
+  demo6.26.vcxproj -> D:\VisualStudioWorkPlace\demo6.26\Debug\demo6.26.exe
