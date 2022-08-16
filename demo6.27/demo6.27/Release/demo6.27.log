@@ -1,0 +1,9 @@
+﻿  main.c
+D:\VisualStudioWorkPlace\demo6.27\demo6.27\main.c(138,8): warning C4018: “>”: 有符号/无符号不匹配
+D:\VisualStudioWorkPlace\demo6.27\demo6.27\main.c(142,6): warning C4013: “exit”未定义；假设外部返回 int
+  正在生成代码
+  0 of 4 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  demo6.27.vcxproj -> D:\VisualStudioWorkPlace\demo6.27\Release\demo6.27.exe
