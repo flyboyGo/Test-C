@@ -1,0 +1,4 @@
+﻿  main2.c
+  正在生成代码
+d:\visualstudioworkplace\demo6.29\demo6.29\main2.c : fatal error C1301: 访问程序数据库 Release\demo6.29.ipdb 时出错，无效的格式，请删除并重新生成
+LINK : fatal error LNK1257: 代码生成失败
