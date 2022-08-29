@@ -1,0 +1,10 @@
+﻿  main3.c
+D:\VisualStudioWorkPlace\demo7.10\demo7.10\main3.c(96,5): error C2084: 函数“int Add(int,int)”已有主体
+D:\VisualStudioWorkPlace\demo7.10\demo7.10\main3.c(22): message : 参见“Add”的前一个定义
+D:\VisualStudioWorkPlace\demo7.10\demo7.10\main3.c(100,5): error C2084: 函数“int Sub(int,int)”已有主体
+D:\VisualStudioWorkPlace\demo7.10\demo7.10\main3.c(43): message : 参见“Sub”的前一个定义
+D:\VisualStudioWorkPlace\demo7.10\demo7.10\main3.c(104,5): error C2084: 函数“int Mul(int,int)”已有主体
+D:\VisualStudioWorkPlace\demo7.10\demo7.10\main3.c(47): message : 参见“Mul”的前一个定义
+D:\VisualStudioWorkPlace\demo7.10\demo7.10\main3.c(108,5): error C2084: 函数“int Div(int,int)”已有主体
+D:\VisualStudioWorkPlace\demo7.10\demo7.10\main3.c(51): message : 参见“Div”的前一个定义
+D:\VisualStudioWorkPlace\demo7.10\demo7.10\main3.c(138,20): error C2059: 语法错误:“)”
