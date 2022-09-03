@@ -1,0 +1,7 @@
+﻿  main3.c
+D:\VisualStudioWorkPlace\demo7.15\demo7.15\main3.c(9,2): warning C4013: “strlen”未定义；假设外部返回 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(217,6): warning C4142: "strlen": 类型的良性重定义
+D:\VisualStudioWorkPlace\demo7.15\demo7.15\main3.c(48,2): warning C4018: “<=”: 有符号/无符号不匹配
+D:\VisualStudioWorkPlace\demo7.15\demo7.15\main3.c(52): warning C4716: “left_move_plus”: 必须返回一个值
+D:\VisualStudioWorkPlace\demo7.15\demo7.15\main3.c(44): warning C4716: “reverse_str2”: 必须返回一个值
+  demo7.15.vcxproj -> D:\VisualStudioWorkPlace\demo7.15\Debug\demo7.15.exe
