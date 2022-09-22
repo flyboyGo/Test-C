@@ -1,0 +1,60 @@
+#define _CRT_SECURE_NO_WARNINGS 1
+#include <stdio.h>
+#include <string.h>
+#define MAX 1000
+#define MAX_NAME 20
+#define MAX_SEX 5
+#define MAX_TELE 12
+#define MAX_ADDR 50
+
+//定义枚举选项
+enum Option
+{
+    EXIT, //0
+    ADD,  //1
+    DEL,  //2
+    SEARCH,//..
+    MODIFY,
+    SHOW,
+    SORT
+};
+
+//用户详细信息组组成
+struct PeoInfo
+{
+    char name[MAX_NAME];
+    int  age;
+    char sex[MAX_SEX];
+    char tele[MAX_TELE];
+    char addr[MAX_ADDR];
+};
+
+//通讯录类型
+struct Contact
+{
+    struct PeoInfo data[MAX];
+    int size;
+};
+
+//申明函数
+
+//初始化函数声明
+void InitContact(struct Contact* pc);
+
+//添加函数声明
+void AddContact(struct Contact* pc);
+
+//查找函数声明
+void SearchContact( const struct Contact* pc);
+
+//修改函数声明
+void ModifyContact(const struct Contact* pc);
+
+//排序函数声明
+void SortContact(struct Contact* pc);
+
+//打印函数声明
+void ShowContact(const struct Contact* pc);
+
+//删除函数声明
+void DelContact(const struct Contact* pc);

@@ -1,0 +1,8 @@
+﻿  contact.c
+D:\VisualStudioWorkPlace\demo7.19\demo7.19\contact.c(62,33): warning C4028: 形参 1 与声明不同
+D:\VisualStudioWorkPlace\demo7.19\demo7.19\contact.c(129,15): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+D:\VisualStudioWorkPlace\demo7.19\demo7.19\contact.c(131,15): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“const int *”
+D:\VisualStudioWorkPlace\demo7.19\demo7.19\contact.c(133,15): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+D:\VisualStudioWorkPlace\demo7.19\demo7.19\contact.c(135,15): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+D:\VisualStudioWorkPlace\demo7.19\demo7.19\contact.c(137,15): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+  demo7.19.vcxproj -> D:\VisualStudioWorkPlace\demo7.19\Debug\demo7.19.exe
