@@ -1,0 +1,8 @@
+﻿  SeqList.c
+D:\VisualStudioWorkPlace\demo7.26\demo7.26\SeqList.c(34,13): warning C4098: “SeqListPushBack”:“void”函数返回值
+  正在生成代码
+  3 of 8 functions (37.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  demo7.26.vcxproj -> D:\VisualStudioWorkPlace\demo7.26\Release\demo7.26.exe
