@@ -1,0 +1,10 @@
+file:D:\VisualStudioWorkPlace\demo7.22\demo7.22\main.c line:40 date:Jul 25 2022 time:19:36:04 i=0
+file:D:\VisualStudioWorkPlace\demo7.22\demo7.22\main.c line:40 date:Jul 25 2022 time:19:36:04 i=1
+file:D:\VisualStudioWorkPlace\demo7.22\demo7.22\main.c line:40 date:Jul 25 2022 time:19:36:04 i=2
+file:D:\VisualStudioWorkPlace\demo7.22\demo7.22\main.c line:40 date:Jul 25 2022 time:19:36:04 i=3
+file:D:\VisualStudioWorkPlace\demo7.22\demo7.22\main.c line:40 date:Jul 25 2022 time:19:36:04 i=4
+file:D:\VisualStudioWorkPlace\demo7.22\demo7.22\main.c line:40 date:Jul 25 2022 time:19:36:04 i=5
+file:D:\VisualStudioWorkPlace\demo7.22\demo7.22\main.c line:40 date:Jul 25 2022 time:19:36:04 i=6
+file:D:\VisualStudioWorkPlace\demo7.22\demo7.22\main.c line:40 date:Jul 25 2022 time:19:36:04 i=7
+file:D:\VisualStudioWorkPlace\demo7.22\demo7.22\main.c line:40 date:Jul 25 2022 time:19:36:04 i=8
+file:D:\VisualStudioWorkPlace\demo7.22\demo7.22\main.c line:40 date:Jul 25 2022 time:19:36:04 i=9
