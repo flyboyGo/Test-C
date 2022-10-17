@@ -1,0 +1,6 @@
+﻿  fun.cpp
+D:\VisualStudioWorkPlace\demo_10_16\demo_10_16\fun.cpp(61,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\VisualStudioWorkPlace\demo_10_16\demo_10_16\fun.cpp(72,16): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+  正在生成代码...
+  demo_10_16.vcxproj -> D:\VisualStudioWorkPlace\demo_10_16\Debug\demo_10_16.exe
